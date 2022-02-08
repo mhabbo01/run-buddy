@@ -12,5 +12,3 @@ https://mhabbo01.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Matt Habbo
-
-## ©️2019 Run Buddy, Inc 
